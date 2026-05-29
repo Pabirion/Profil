@@ -1,0 +1,6 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploaded user images (runtime content, not source code)
+uploads/
